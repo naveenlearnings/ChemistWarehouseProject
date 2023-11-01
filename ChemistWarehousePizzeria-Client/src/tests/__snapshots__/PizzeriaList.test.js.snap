@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PizzeriaList renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <header
+          class="alert alert-primary"
+          role="alert"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="row"
+            >
+              <h1
+                class="center"
+              >
+                Number of Pizzas Ordered: 
+                0
+              </h1>
+            </div>
+            <div
+              class="row"
+            >
+              <h3>
+                Total price: $
+                0
+              </h3>
+            </div>
+            <div
+              class="row"
+            >
+              <div
+                class="col-md"
+              >
+                <button
+                  class="btn btn-primary"
+                >
+                  Submit Order
+                </button>
+              </div>
+              <div
+                class="col-md text-right"
+              >
+                <a
+                  class="btn btn-primary mr-3 ml-auto"
+                  href="/Pizzeria/new"
+                >
+                  Create New Pizzeria
+                </a>
+              </div>
+            </div>
+          </div>
+        </header>
+        <main />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <header
+        class="alert alert-primary"
+        role="alert"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          >
+            <h1
+              class="center"
+            >
+              Number of Pizzas Ordered: 
+              0
+            </h1>
+          </div>
+          <div
+            class="row"
+          >
+            <h3>
+              Total price: $
+              0
+            </h3>
+          </div>
+          <div
+            class="row"
+          >
+            <div
+              class="col-md"
+            >
+              <button
+                class="btn btn-primary"
+              >
+                Submit Order
+              </button>
+            </div>
+            <div
+              class="col-md text-right"
+            >
+              <a
+                class="btn btn-primary mr-3 ml-auto"
+                href="/Pizzeria/new"
+              >
+                Create New Pizzeria
+              </a>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

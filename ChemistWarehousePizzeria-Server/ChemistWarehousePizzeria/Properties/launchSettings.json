@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "ChemistWarehousePizzeria": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/Pizzerias",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7199;"
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:59715",
+      "sslPort": 44306
+    }
+  }
+}

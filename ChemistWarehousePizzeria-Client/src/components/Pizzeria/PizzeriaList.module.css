@@ -1,0 +1,26 @@
+.pizzaContainer {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    box-shadow: 2px 2px 2px #ddd;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    color: #555;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  p:last-child {
+    margin-bottom: 0;
+  }
+  
